@@ -37,8 +37,10 @@ This project demonstrates the **Bellman-Ford Algorithm**, which is used for find
    ```bash
    g++ BellmanFord.cpp -o BellmanFord
 3.Run the program:
+
    ./bellman
 
    
 ✍️ Author
+
 Aishna Gupta
